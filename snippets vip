@@ -1,0 +1,18 @@
+
+    // const wikiUrls = [];
+    // const images = [];
+
+    // for (let i = 0; i < 45; i++) {
+    //   images.push($('td > .image', html)[i].attribs.title);
+    // }
+    // $('td > b > a', html).length;
+    // $('td > b > a', html);
+    // for (let i = 0; i < 45; i++) {
+    //   wikiUrls.push($('td > b > a', html)[i].attribs.title);
+    // }
+    // console.log('president image', images.length);
+    // console.log('president name', wikiUrls.length);
+
+
+    // topic about
+// https://www.freecodecamp.org/news/the-ultimate-guide-to-web-scraping-with-node-js-daa2027dcd3/
